@@ -4,3 +4,7 @@ __pycache__
 *.pytest_cache
 .gitattributes
 !*.zip
+zippedData/
+C:\Users\user\Documents\Project\zippedData\im
+zippedData\im
+zippedData\im.db
