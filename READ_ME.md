@@ -33,20 +33,7 @@ The following three visualizations provide insights into the factors that contri
 A scatterplot showing the relationship between movie budget and worldwide gross revenue.
 A bar chart showing the average rating of movies by genre.
 A pie chart showing distribution of domestic and foreign gross
-Top 10 Studios by Total Gross Revenue
-The following table shows the top 10 studios by total gross revenue:
-Studio	Total Gross Revenue (in billions)	Number of Movies Produced
-BV	44.21	106
-Fox	31.01	136
-WB	30.84	140
-Uni.	29.76	147
-Sony	22.41	110
-Par.	19.55	101
-WB (NL)	10.33	45
-LGF	8.60	103
-LG/S	5.43	41
-P/DW	5.08	10
-The above table shows that BV is the top studio by total gross revenue, followed by Fox and WB. Uni. is in fourth place,
+
 
 Business Recomendations
 
